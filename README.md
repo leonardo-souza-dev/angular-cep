@@ -1,5 +1,5 @@
 # angular-cep
 
-Angular 15
-HttpClient
-Typescript
+* Angular 15
+* HttpClient
+* Typescript
