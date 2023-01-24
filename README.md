@@ -1,3 +1,5 @@
-# angular-x6reg7
+# angular-cep
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-x6reg7)
+Angular 15
+HttpClient
+Typescript
